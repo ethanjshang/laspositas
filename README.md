@@ -1,2 +1,4 @@
 # laspositas
-Code from my CS classes at Las Positas (unfortunately Berkeley's guidelines prevent from publishing my UC Berkeley code)
+Code from my CS classes at Las Positas!
+
+(Unfortunately, Berkeley's guidelines prevent from publishing my more sophisticated UC Berkeley code.)
